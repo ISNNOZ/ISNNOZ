@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/3og0ILLVvPp8d64Jd6/giphy.gif)](https://rishavchanda.io)
+[![MasterHead]<img align="centre" alt="Coding" width="400" src="(https://media.giphy.com/media/3og0ILLVvPp8d64Jd6/giphy.gif)">]
 
 <h1 align="center">Hi 👋, I'm Manav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
