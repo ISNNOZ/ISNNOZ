@@ -1,5 +1,5 @@
-[![MasterHead]<img align="centre" alt="Coding" width="400" src="(https://media.giphy.com/media/3og0ILLVvPp8d64Jd6/giphy.gif)">]
-
+<img align="center" alt="Coding" src="https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv">
+                                                                                                                                                      
 <h1 align="center">Hi 👋, I'm Manav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://repository-images.githubusercontent.com/280476541/83269600-c87e-11ea-8ff8-573ed1ab5fe8">
