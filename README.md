@@ -5,13 +5,13 @@
 <img align="right" alt="Coding" width="400" src="https://repository-images.githubusercontent.com/280476541/83269600-c87e-11ea-8ff8-573ed1ab5fe8">
 
 
-- 🌱 I’m currently learning **Penetration Testing**
+- 🌱 I’m currently doing **Penetration Testing**
 
 - 👯 I’m looking to collaborate on **Web Penetration Project**
 
 - 📝 I regularly write articles on [https://medium.com/@kumarmanav705](https://medium.com/@kumarmanav705)
 
-- 💬 Ask me about **Web Application Penetration Testing**
+- 💬 Ask me about **Web Application Penetration Testing** & **Forensics Investigation**
 
 - 📫 How to reach me **kumarmanav705@gmail.com**
 
